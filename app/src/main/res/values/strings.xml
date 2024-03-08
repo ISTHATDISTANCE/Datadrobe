@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Datadrobe</string>
+    <string-array name="Languages">
+        <item>Select the way you commute</item>
+        <item>Public Transportation</item>
+        <item>Drive</item>
+        <item>Walk</item>
+    </string-array>
+    <string name="signup">Don’t have an account? <b>Sign up</b></string>
+    <string name="cold_level">3. Do you tend to run hot or cold? <i>(this will help us give you better recommendations!)</i></string>
+</resources>
